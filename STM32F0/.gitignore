@@ -3,3 +3,8 @@
 *.swp
 *.log
 *.tmp
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
